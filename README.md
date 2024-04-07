@@ -10,15 +10,15 @@ Clue Solver hooks directly into a user's RuneScape client allowing it to read an
 
 By default, Clue Solver's 'Output type' setting for the solution is "Click overlay", visible by clicking the settings cog in the bottom right of the UI (circled in red below).
 
-![image](pmqzllae.png)
+![image](doc-images/solver-settings1.png)
 
 Simply click on the radio button for "Instruction List" to select it, and the settings cog again to close the interface.
 
-![image](v1j5k8vd.png)
+![image](doc-images/solver-settings2.png)
 
 Now, when clicking "GUIDE" to see the generated solution, users will see a list of commands they can easily copy to Clipboard with Ctrl+A --> Ctrl+C :
 
-![image](image-1.png)
+![image](doc-images/solver-highlighted.png)
 
 
 ## Executing Instructions with ZSolver
@@ -31,7 +31,7 @@ Additionally, there is an optional "Auto-Return to RS Client" toggle.
 
 Finally, before pressing "Submit" users must ensure the "Invert keyboard controls" checkbox **is selected** in their RuneScape client puzzle interface. 
 
-![image](z9mpgs8v.png)
+![image](doc-images/inv-key-controls.png)
 
 ZSolver is designed to handle the Instruction List string as-is, allowing for fast/easy use with the Ctrl+A/C/V commands to quickly highlight, copy, and paste the Instruction List.
 
