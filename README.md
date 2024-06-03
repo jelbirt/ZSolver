@@ -21,6 +21,12 @@ Now, when clicking "GUIDE" to see the generated solution, users will see a list 
 ![image](doc-images/solver-highlighted.png)
 
 
+### RS3 Engine Update (December 2023)
+
+Runescape 3 released a major engine update in December 2023, changing interface scaling and affecting Alt1's ability to read and interact with the RS3 client.
+
+To resolve issues relating to this, follow Alt1 Creator Skillbert's step-by-step guide found [here](https://runeapps.org/forums/viewtopic.php?id=1614).
+
 ## Executing Instructions with ZSolver
 
 Once the Instruction List has been copied to Clipboard, users are ready to launch ZSolver and paste (Ctrl+V) the list into the main input window. 
